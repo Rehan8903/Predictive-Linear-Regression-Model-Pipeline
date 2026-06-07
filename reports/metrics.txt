@@ -1,0 +1,9 @@
+Model: Linear Regression
+R2 Score: 0.6063
+RMSE: 0.7381
+-------------------------
+
+Model: Ridge Regression
+R2 Score: 0.6065
+RMSE: 0.7380
+-------------------------
